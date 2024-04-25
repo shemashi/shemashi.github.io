@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Chaimaa Atraoui',
     description:
-      'Chaimaa Atraoui is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
-    siteUrl: 'https://chandrikadeb7.github.io', // No trailing slash allowed!
+      'Chaimaa Atraoui is a data scientist interested by many subjects, mainly AI & NLP.',
+    siteUrl: 'https://github.com/shemashi', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chandrikadeb7',
   },
