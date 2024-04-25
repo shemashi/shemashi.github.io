@@ -5,7 +5,7 @@
   "author": "Chaimaa Atraoui <chaima.atra@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shemashi/shemashi.github.io"
+    "url": "git+https://github.com/shemashi/shemashi.github.io.git"
   },
   "keywords": [
     "gatsby"
@@ -76,5 +76,10 @@
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/shemashi/shemashi.github.io/issues"
+  },
+  "homepage": "https://github.com/shemashi/shemashi.github.io#readme",
+  "main": "gatsby-browser.js"
 }
