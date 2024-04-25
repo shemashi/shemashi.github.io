@@ -2,8 +2,8 @@
 date: '3'
 title: 'New Upcoming Project2 Soon 🌟'
 cover: './flipkart.png'
-external: 'https://docs.google.com/presentation/d/1ELoytkCyrR6PysGE34kiz_b6PXTBmbf_SWKGwSu9SeE/edit?usp=sharing'
-cta: 'https://chandrikadeb7.gumroad.com/l/mbaSlides?layout=profile'
+external: 'https://github.com/shemashi'
+cta: 'https://github.com/shemashi'
 tech:
   - Research
   - SPSS

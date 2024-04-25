@@ -38,8 +38,8 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
+    green: '#F8E77C',
+    navy: '#B0C4B1',
     darkNavy: '#020c1b',
   },
 

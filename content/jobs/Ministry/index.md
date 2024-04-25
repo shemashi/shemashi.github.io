@@ -3,7 +3,7 @@ date: '2021-07-01'
 title: 'Data Scientist'
 company: 'Ministry of interior of Morocco'
 location: 'Remote'
-range: 'July 2021 - August 2023'
+range: 'July 2021 - August 2021'
 url: ''
 ---
 

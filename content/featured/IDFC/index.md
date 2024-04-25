@@ -2,7 +2,7 @@
 date: '2'
 title: 'New Upcoming Project3 Soon 🌟'
 cover: './idfc.png'
-external: 'https://docs.google.com/presentation/d/1VBxFohznvvVg8Kxf5CPwx2UAgbv2ReTx6vzcp8A7u70/edit?usp=sharing'
+external: 'https://github.com/shemashi'
 tech:
   - Review Scraping
   - User Persona

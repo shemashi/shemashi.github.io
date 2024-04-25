@@ -2,8 +2,8 @@
 date: '1'
 title: 'New Upcoming Project1 Soon 🌟'
 cover: './yash.png'
-github: 'https://github.com/chandrikadeb7/La-Derma'
-external: 'https://docs.google.com/presentation/d/1q-de17co3sbWG5tAgwR_O8jbMF_tyaIn_Sgyzeg9uuI/edit?usp=sharing'
+github: 'https://github.com/shemashi'
+external: 'https://github.com/shemashi'
 tech:
   - Python
   - JavaScript
