@@ -147,7 +147,7 @@ const About = () => {
       
 
             <p>
-            At {' '} <a href="https://www.groupebcp.com/fr/Pages/home.aspx">Banque Centrale Populaire</a>, {' '}  ,I played a pivotal role in developing an intermediate ESB between customs systems and the bank, enhancing data integration and facilitating seamless exchange between systems. Moreover, my contributions as a Data Scientist/Webmethod Developer involved the creation of graphical interfaces and dashboards for effective management and monitoring of data exchanges.
+            At {' '} <a href="https://www.groupebcp.com/fr/Pages/home.aspx">Banque Centrale Populaire</a>, {' '}  I played a pivotal role in developing an intermediate ESB between customs systems and the bank, enhancing data integration and facilitating seamless exchange between systems. Moreover, my contributions as a Data Scientist/Webmethod Developer involved the creation of graphical interfaces and dashboards for effective management and monitoring of data exchanges.
             </p>
 
             <p>My skills are not limited to this list!</p>
