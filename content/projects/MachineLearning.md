@@ -10,4 +10,4 @@ company: 'Certification'
 showInProjects: true
 ---
 
-This Machine Learning with Python course dives into the basics of machine learning using an approachable, and well-known, programming language. Learn about Supervised vs Unsupervised Learning, look into how Statistical Modeling relates to Machine Learning, and do a comparison of each.
+This Machine Learning with Python course dives into the basics of machine learning. Learn about Supervised vs Unsupervised Learning, look into how Statistical Modeling relates to Machine Learning, and do a comparison of each.
