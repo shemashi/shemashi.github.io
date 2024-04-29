@@ -1,6 +1,6 @@
 ---
 date: '2021-04-20'
-title: 'Old Portfolio wabsite'
+title: 'Old Portfolio website'
 github: 'https://github.com/shemashi/myportfolio'
 external: 'https://chaimaatraoui.me/'
 tech:
