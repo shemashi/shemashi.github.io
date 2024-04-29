@@ -7,7 +7,7 @@ module.exports = {
       'Chaimaa Atraoui is a data scientist interested by many subjects, mainly AI & NLP.',
     siteUrl: 'https://github.com/shemashi', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@chandrikadeb7',
+    
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
