@@ -82,6 +82,6 @@
   "bugs": {
     "url": "https://github.com/shemashi/shemashi.github.io/issues"
   },
-  "homepage": "https://github.com/shemashi/shemashi.github.io#readme",
+  "homepage": "https://github.com/shemashi/shemashi.github.io/react-gh-pages",
   "main": "gatsby-browser.js"
 }

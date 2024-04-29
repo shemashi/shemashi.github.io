@@ -1,15 +1,14 @@
 ---
 date: '2021-04-20'
 title: 'Old Portfolio wabsite'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io'
-external: 'https://chandrikadeb7.github.io'
+github: 'https://github.com/shemashi/myportfolio'
+external: 'https://chaimaatraoui.me/'
 tech:
   - JavaScript
-  - GraphQL
-  - Gatsby
+  - React
+  
 company: 'Project'
 showInProjects: false
 ---
 
-Personal portfolio website hosted on GitHub Pages inspired by Brittany Chiang's V4 template
-
+Personal portfolio website hosted on netlify
